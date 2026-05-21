@@ -41,3 +41,9 @@ console.log(cidades);
 let países = ["Brasil" , "Argentina", " chile"];
 países.unshift("Uruguai");
 console.log(países);
+
+//Adicionando todos os elementos do array com for
+let frutas = ["Maça", "Banana", "Laranja", "uva"];
+for (let i - 0; < frutas.length; i++) {
+    console.log(frutas[i]);
+}
